@@ -1,0 +1,38 @@
+
+{
+  "name": "@telia/eslint-config-divx",
+  "version": "0.0.1",
+  "description": "Telia Division X eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeliaSoneraNorge/eslint-config-divx.git"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "tiborv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeliaSoneraNorge/eslint-config-divx/issues"
+  },
+  "homepage": "https://github.com/TeliaSoneraNorge/eslint-config-divx#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^15.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "peerDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
