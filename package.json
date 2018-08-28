@@ -23,7 +23,7 @@
     "eslint-config-airbnb": "^15.1.0"
   },
   "devDependencies": {
-    "babel-eslint": "^8.0.1",
+    "babel-eslint": "^9.0.0",
     "eslint": "^4.8.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
