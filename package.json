@@ -1,6 +1,6 @@
 {
   "name": "@telia/eslint-config-divx",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Telia Division X eslint config",
   "main": "index.js",
   "scripts": {
