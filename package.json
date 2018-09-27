@@ -24,7 +24,7 @@
     "merge-deep": "3.0.2"
   },
   "devDependencies": {
-    "babel-eslint": "^9.0.0",
+    "babel-eslint": "^10.0.1",
     "eslint": "^5.5.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
